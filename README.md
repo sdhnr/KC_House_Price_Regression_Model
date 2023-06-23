@@ -6,19 +6,19 @@ This project focuses on predicting house prices in the KC area using a regressio
 
 Data cleaning and handling missing values.
 Feature scaling or normalization.
-Handling categorical variables (if applicable).
+Handling categorical variables.
 Splitting the data into training and testing sets.
 
 # Exploratory Data Analysis (EDA):
 
 Analyzing and visualizing the distribution of the target variable (house prices) and independent variables.
 Identifying correlations and relationships between variables.
-Handling outliers and skewed data (if necessary).
+Handling outliers and skewed data.
 
 # Model Evaluation:
 
 Building and training regression models.
-Evaluating the models using appropriate metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared score.
+Evaluating the models using appropriate metrics R-squared score.
 Comparing the performance of different models.
 
 # Hyperparameter Tuning:
